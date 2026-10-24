@@ -16,4 +16,4 @@
 - RAM: 32 GB
 - Componentes:
 - Modo de rede: NAT
-- Status: instalação pendente
+- Status: instalação concluída
